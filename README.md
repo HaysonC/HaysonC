@@ -12,7 +12,7 @@ the pong game
 Planning on combining other differnet deep learning architecture to start actually productive projects.
 
 ### I also worked on:
-## [PHY-Pendulum](https://github.com/HaysonC/P](https://github.com/HaysonC/PHY180-Pendulum)
+## [PHY-Pendulum](https://github.com/HaysonC/PHY180-Pendulum)
 A simple object detection that detect a moving bob, by simply computing cosine differnces and finding 
 contours with OpenCV
 
@@ -21,7 +21,9 @@ the centre orgin of the pendulum.
 
 ## [MapMatch](https://github.com/Epic-Eric/AWSHacks)
 Using AWS services, extracts key phrases and compute sematic embeddings of personal discriptions, to
-help UofT student to find roomate. We compute the differnces between the embeddign vectors 
+help UofT student to find roomate. We compute the differnces between the embeddign vectors and display in a 
+a graphical view.
+
 
 
 
