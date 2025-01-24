@@ -24,6 +24,8 @@ Using AWS services, extracts key phrases and compute sematic embeddings of perso
 help UofT student to find roomate. We compute the differnces between the embeddign vectors and display in a 
 a graphical view.
 
+## [Elevator](https://github.com/HaysonC/elevator)
+Elevator is an intelligent system designed to optimize the elevator scheduling process. By utilizing advanced algorithms, it predicts the optimal elevator movement based on the current status and demand, ensuring efficient and timely transportation in high-rise buildings. The project integrates various performance metrics and provides a user-friendly interface for real-time monitoring.
 
 
 
