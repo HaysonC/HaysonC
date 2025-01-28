@@ -1,5 +1,4 @@
 ## Welcome to my GitHub
-![Hayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaysonC&show_icons=true&theme=radical)
 ### 🔭 I’m currently working on ...
 ## [LSTM translator](https://github.com/HaysonC/Encoder-DecoderLSTMTranslator)
 Tensorflow SEQ2SEQ Translator training based on LSTM encoder and decoder architecture.
