@@ -1,8 +1,12 @@
 ## Welcome to my GitHub
 
 ### 🔭 I’m currently working on ...
+## [LSTM translator](https://github.com/HaysonC/Encoder-DecoderLSTMTranslator)
+Tensorflow SEQ2SEQ Translator training based on LSTM encoder and decoder architecture.
+Read more on the project page.
+
 ## [krackle](https://github.com/Epic-Eric/New-Hacks/)
-I used CNN and EigenFace Difference to Detect changes in face. 
+I used tensorflow keras CNN and EigenFace Difference to Detect changes in face. 
 Used by a game that detect user reactions when plaing videos. 
 
 ## [Neat Pong-Bot](https://github.com/HaysonC/NEAT-PongBot/)
@@ -10,6 +14,7 @@ Using the NEAT (NeuroEvolution of Aumentign Topology) architecture for unsuperiv
 the pong game
 
 Planning on combining other differnet deep learning architecture to start actually productive projects.
+
 
 ### I also worked on:
 ## [PHY-Pendulum](https://github.com/HaysonC/PHY180-Pendulum)
